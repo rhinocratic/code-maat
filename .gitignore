@@ -19,3 +19,9 @@ test_data.txt
 .idea/
 *.iml
 .nrepl-port
+.portal/vs-code.edn
+.calva/output-window/
+.classpath
+.clj-kondo/.cache
+.portal
+.lsp
